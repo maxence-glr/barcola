@@ -1,0 +1,19 @@
+.banner{
+	background-image: url(../../images/barcolafond.jpg);
+	background-size: cover;    
+    background-position: center;
+}
+.banner h1 {
+	color: rgb(221,76,76);
+	font-size: 150px;
+	text-align:center;
+}
+.banner h2{
+	font-family:'Lora', serif;
+	font-size: 40px;
+	margin: 10px;
+	font-weight: 100;
+	color:rgb(221,76,76);
+	opacity: 1;
+	position: center;
+}

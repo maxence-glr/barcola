@@ -1,0 +1,10 @@
+.btn-blue {
+    background-color: blue;
+    padding: 105px 90px;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    right: 20px; /* Adjust this value to control the distance from the left edge */
+    top: 550px;  /* Optional: adjust for distance from the top */
+}
